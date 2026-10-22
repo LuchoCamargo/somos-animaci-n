@@ -1,4 +1,0 @@
-.topbar{height:84px}
-.brand{min-width:190px;align-self:stretch;justify-content:flex-start}
-.brand-logo{display:block;width:180px;height:80px;object-fit:contain;filter:brightness(0) invert(1)}
-@media(max-width:760px){.topbar{min-height:72px;height:auto;flex-wrap:wrap;row-gap:4px}.brand{min-width:130px;flex:1}.brand-logo{width:140px;height:64px}.top-actions{flex-wrap:wrap;justify-content:flex-end}}
