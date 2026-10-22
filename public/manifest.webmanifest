@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Somos Animación — Editor de carteleras",
+  "short_name": "Somos Editor",
+  "description": "Crea y anima carteleras verticales.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#191919",
+  "theme_color": "#171717",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
